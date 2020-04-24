@@ -1,2 +1,2 @@
 # 30_days_of_code_hackerrank_solutions
-This repository contains the solutions for hackerrank 30_days_of_code_challenge
+This repository contains the solutions for hackerrank 30_days_of_code_challenge in C and C++ languages...
