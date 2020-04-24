@@ -12,4 +12,5 @@ int main() {
    printf("%s", inputString);
 
    return 0;
+   
 }
